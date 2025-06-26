@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi, I’m Elyraen 👋
 
-<!--
-**Elyraen/Elyraen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I'm a Software Engineering student passionate about building efficient, scalable systems.  
+💡 Focused on full-stack development, game systems, and software architecture.  
+🧠 Currently learning: System design, Agile workflows, and Unreal game dev.  
+📁 This GitHub is my living portfolio—class projects, personal tools, and experiments in code.
 
-Here are some ideas to get you started:
+## 🛠️ Languages & Tools
+- Languages: Python, C#, JavaScript, SQL, HTML, CSS
+- Tools: Git, VS Code, Unity, Unreal, React, MongoDB
+- Focus Areas: Game Development • Backend Systems • Full-stack Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🍀 I push code regularly from school and personal projects. 🍀
