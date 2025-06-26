@@ -1,4 +1,4 @@
-# Hi, I’m Elyraen 👋
+# Hi, I’m Harsh Goswami 👋
 
 🎓 I'm a Software Engineering student passionate about building efficient, scalable systems.  
 💡 Focused on full-stack development, game systems, and software architecture.  
